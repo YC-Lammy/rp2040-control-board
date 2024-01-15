@@ -882,7 +882,6 @@
     (tags "Through hole angled pin header THT 2x17 2.54mm double row")
     (property "Sheetfile" "rp2040-control-board.kicad_sch")
     (property "Sheetname" "")
-    (path "/a1579288-0401-47e0-9ff2-823dc13af251")
     (attr through_hole)
     (fp_text reference "J4" (at -2.667 0 180) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
